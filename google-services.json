@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "704746053406",
+    "project_id": "textfcm-b0612",
+    "storage_bucket": "textfcm-b0612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704746053406:android:bcbb43011c6586cf32f30f",
+        "android_client_info": {
+          "package_name": "com.abi_halk.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704746053406-1c6ictmednvq3bkandp18oc165ujjkll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abi_halk.firebasenotification",
+            "certificate_hash": "90372d435a54e297c17e3e426252342d96d926b6"
+          }
+        },
+        {
+          "client_id": "704746053406-p3aj0in7ut2j52be0otravt38d14f2ss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abi_halk.firebasenotification",
+            "certificate_hash": "b8d3b418c63081a31705c62a69f367c63101bf9c"
+          }
+        },
+        {
+          "client_id": "704746053406-ov3ql4vgh7lp1aehofqjb87mvmjauoba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfMxlIxZJOy9eDgYUgQSUZY98EvBj9edk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704746053406-ov3ql4vgh7lp1aehofqjb87mvmjauoba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
